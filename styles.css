@@ -59,6 +59,10 @@ box-shadow: 4px 4px 14px rgba(0,0,0,25);
     }
 }
 
+.color {
+    color: rgb(228, 218, 28);
+}
+
 .textt {
 
     margin-left: 20px;
@@ -119,7 +123,7 @@ float: left;
     padding: 0 20px;
 }
  .list li {
-    color: #91949b;
+    color: #0f52ef;
  }
 
  .table {
